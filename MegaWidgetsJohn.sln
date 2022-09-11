@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "MegaWidgetsJohn", "MegaWidgetsJohn.njsproj", "{F13583D0-6924-4E08-8433-4EE11C282454}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F13583D0-6924-4E08-8433-4EE11C282454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F13583D0-6924-4E08-8433-4EE11C282454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F13583D0-6924-4E08-8433-4EE11C282454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F13583D0-6924-4E08-8433-4EE11C282454}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E30D0236-DB65-4BC9-954C-FCDD982C332C}
+	EndGlobalSection
+EndGlobal

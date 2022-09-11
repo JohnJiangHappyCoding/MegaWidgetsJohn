@@ -1,0 +1,9 @@
+{
+  "name": "mega-widgets-john",
+  "version": "0.0.0",
+  "description": "MegaWidgetsJohn",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
